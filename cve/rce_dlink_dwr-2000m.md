@@ -17,7 +17,7 @@ Successful exploitation may lead to arbitrary command execution on the underlyin
 ## How to reproduce it?  
 **1st step:** Login to the admin panel.  
 **2nd step:** Go to More > Developer > Diagnostics  
-**3rd step:** Run any test (ping/traceroute/nslookup) with [burpsuite](https://portswigger.net/burp)
+**3rd step:** Run any test (ping/traceroute/nslookup) with [burpsuite](https://portswigger.net/burp)  
 **4th step:** Add a pipe ( ``|`` / ``%7C``) at the end of the target setting and add your command after that (do not forget to replace spaces by ``${IFS}``)   
 
 ### example:  
