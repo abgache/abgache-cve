@@ -1,7 +1,7 @@
-# Arbitraty Code Execution vulnerability in DLink DWR 2000M 5G  
+# Arbitrary Code Execution vulnerability in DLink DWR 2000M 5G  
 ## Main informations  
 **CVE ID:** Soon  
-**Vulnerability:** Remote Code Execution (Arbitraty Code Execution/Command Injection)  
+**Vulnerability:** Remote Code Execution (Arbitrary Code Execution/Command Injection)  
 **Author:** Meddeb Taieb - Abgache  
 **Vendor Homepage:** [D-Link DWR-2000M 5G Wi-Fi Router](https://dlinkmea.com/index.php/product/details?det=K1o4UkpXMHIreWZYMzhnV0JwbWFadz09)  
 **Model:**  DLink DWR 2000M 5G  
